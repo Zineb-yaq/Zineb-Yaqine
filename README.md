@@ -1,7 +1,7 @@
 <h1 align="center">Zineb Yaqine</h1>
 
 <p align="center">
-  Étudiante Ingénieure 4ème année · IS & Data<br>
+  Étudiante Ingénieure 4ème année · IA & Data<br>
   EMSI Centre · Casablanca, Maroc
 </p>
 
